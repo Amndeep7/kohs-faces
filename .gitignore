@@ -1,0 +1,13 @@
+# spam
+.*.un~
+.*.swp
+
+# firefox addon stuff
+web-ext-artifacts
+
+# build artifacts
+icons/icon_*.png
+
+# "production" artifacts - screenshots and modified icons to fit browser promotion requirements
+pictures/*.png
+pictures/*.gif

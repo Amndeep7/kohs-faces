@@ -23,6 +23,20 @@
 	animation: homer 2s steps(35) forwards; /* #.#s is total gif duration, steps(#) is number of frames minus 1 */
 }
 
+/* Non Non Biyori */
+.md [href$="##rengehunf"] {
+	background-image: url("https://i.imgur.com/AMocjaY.png") !important;
+	width: 200px !important;
+	height: 149px !important;
+}
+
+/* Non Non Biyori */
+.md [href$="##uwotmate"] {
+	background-image: url("https://i.imgur.com/2R1GoFQ.png") !important;
+	width: 200px !important;
+	height: 200px !important;
+}
+
 /* Casshern Sins */
 .md [href$="##Luna"] {
 	background-image: url("https://i.imgur.com/MDp84Bo.png") !important;

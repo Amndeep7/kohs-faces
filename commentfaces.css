@@ -1,8 +1,8 @@
 /* Avatar: The Last Airbender */
 .md [href$="##koh"] {
-	background-image: url("https://vignette.wikia.nocookie.net/avatar/images/0/00/Koh.png/");
-	width: 333px;
-	height: 250px;
+	background-image: url("https://vignette.wikia.nocookie.net/avatar/images/0/00/Koh.png/") !important;
+	width: 333px !important;
+	height: 250px !important;
 }
 
 /* The Simpsons */
@@ -15,9 +15,9 @@
 	}
 }
 .md [href$="##homer"] {
-	background-image: url("https://i.imgur.com/FI3TJ0A.jpg");
-	width: 480px;
-	height: 360px; /* height of each frame, not the total height of the resultant sprite sheet */
+	background-image: url("https://i.imgur.com/FI3TJ0A.jpg") !important;
+	width: 480px !important;
+	height: 360px !important; /* height of each frame, not the total height of the resultant sprite sheet */
 }
 .md [href$="##homer"]:hover {
 	animation: homer 2s steps(35) forwards; /* #.#s is total gif duration, steps(#) is number of frames minus 1 */

@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "author": "Amndeep Singh Mann",
   "name": "Koh's Faces",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An /r/anime commentface extender.",
 
   "applications": {

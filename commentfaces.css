@@ -29,3 +29,21 @@
 	width: 384px !important;
 	height: 216px !important;
 }
+
+/* Spice and Wolf */
+@keyframes holopat {
+	from {
+		background-position: 0px 0px;
+	}
+	to {
+		background-position: 0px -9360px;;
+	}
+}
+.md [href$="##holopat"] {
+	background-image: url("https://i.imgur.com/LFNMUQr.jpg") !important;
+	width: 500px !important;
+	height: 260px !important;
+}
+.md [href$="##holopat"]:hover {
+	animation: holopat 3s steps(36) forwards;
+}

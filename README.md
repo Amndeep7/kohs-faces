@@ -5,7 +5,7 @@
 | Add-on/Extension Repository/Store |
 | --- |
 | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/kohs-faces/) |
-| [Chrome](https://chrome.google.com/webstore/detail/kohs-faces/gibberish)
+| [Chrome](https://chrome.google.com/webstore/detail/kohs-faces/hjbiodcicoonaniboaeogfcecldjhcbb)
 
 ---
 

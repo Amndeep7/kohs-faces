@@ -22,3 +22,10 @@
 .md [href$="##homer"]:hover {
 	animation: homer 2s steps(35) forwards; /* #.#s is total gif duration, steps(#) is number of frames minus 1 */
 }
+
+/* Casshern Sins */
+.md [href$="##Luna"] {
+	background-image: url("https://i.imgur.com/MDp84Bo.png") !important;
+	width: 384px !important;
+	height: 216px !important;
+}

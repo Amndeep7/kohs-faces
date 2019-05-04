@@ -250,3 +250,38 @@
 	width: 200!important;
 	height: 199px !important;
 }
+
+/* Fate Prisma Illya */
+.md [href$="##illyasmile"] {
+	background-image: url("https://i.imgur.com/eicYK6f.png") !important;
+	width: 150px!important;
+	height: 84px !important;
+}
+
+/* Fate Prisma Illya */
+.md [href$="##illyapout"] {
+	background-image: url("https://i.imgur.com/4JSQkKN.png") !important;
+	width: 150px!important;
+	height: 84px !important;
+}
+
+/* Fate Prisma Illya */
+.md [href$="##illyashock"] {
+	background-image: url("https://i.imgur.com/WVbiFFv.png") !important;
+	width: 150px!important;
+	height: 84px !important;
+}
+
+/* Fate Prisma Illya */
+.md [href$="##illyahappy"] {
+	background-image: url("https://i.imgur.com/aWkGYnT.png") !important;
+	width: 150px!important;
+	height: 84px !important;
+}
+
+/* Fate Prisma Illya */
+.md [href$="##illyalove"] {
+	background-image: url("https://i.imgur.com/z0BJNTr.png") !important;
+	width: 150px!important;
+	height: 84px !important;
+}

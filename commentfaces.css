@@ -250,3 +250,10 @@
 	width: 200!important;
 	height: 199px !important;
 }
+
+/* Heartcatch! Precure */
+.md [href$="##coffret"] {
+	background-image: url("https://i.imgur.com/hgiqTVp.png") !important;
+	width: 176!important;
+	height: 200px !important;
+}

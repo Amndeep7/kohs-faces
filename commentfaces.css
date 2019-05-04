@@ -61,3 +61,192 @@
 .md [href$="##holopat"]:hover {
 	animation: holopat 3s steps(36) forwards;
 }
+
+/* Symphogear */
+.md [href$="##dmjii_cheer"] {
+	background-image: url("https://i.imgur.com/pIKP11T.png") !important;
+	width: 200px !important;
+	height: 163px !important;
+}
+
+/* Symphogear */
+.md [href$="##dmjii_shock"] {
+	background-image: url("https://i.imgur.com/6sw2MSM.png") !important;
+	width: 200px !important;
+	height: 112px !important;
+}
+
+/* Symphogear */
+.md [href$="##dmjii_disgust"] {
+	background-image: url("https://i.imgur.com/ZdwNwoE.png") !important;
+	width: 200px !important;
+	height: 112px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_annoyed"] {
+	background-image: url("https://i.imgur.com/eGQKT2m.png") !important;
+	width: 200px !important;
+	height: 200px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_australia"] {
+	background-image: url("https://i.imgur.com/D8aP9Fa.png") !important;
+	width: 193px !important;
+	height: 200px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_bandage"] {
+	background-image: url("https://i.imgur.com/urw818H.png") !important;
+	width: 200px !important;
+	height: 161px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_binoculars"] {
+	background-image: url("https://i.imgur.com/sYPQfXi.png") !important;
+	width: 128px !important;
+	height: 128px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_cry"] {
+	background-image: url("https://i.imgur.com/3oB6HdQ.png") !important;
+	width: 200px !important;
+	height: 200px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_dess"] {
+	background-image: url("https://i.imgur.com/vFk5pze.png") !important;
+	width: 116px !important;
+	height: 116px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_disgust"] {
+	background-image: url("https://i.imgur.com/zPx3SfS.png") !important;
+	width: 128px !important;
+	height: 121px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_shock"] {
+	background-image: url("https://i.imgur.com/f9sYMft.png") !important;
+	width: 200px !important;
+	height: 150px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_sad"] {
+	background-image: url("https://i.imgur.com/Icz06oj.png") !important;
+	width: 200px !important;
+	height: 112px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_yay"] {
+	background-image: url("https://i.imgur.com/ndWVcOJ.png") !important;
+	width: 200px !important;
+	height: 112px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_ecstatic"] {
+	background-image: url("https://i.imgur.com/U29Jprs.png") !important;
+	width: 200px !important;
+	height: 159px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_wait"] {
+	background-image: url("https://i.imgur.com/l5Lqw3f.png") !important;
+	width: 160px !important;
+	height: 200px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_mock"] {
+	background-image: url("https://i.imgur.com/YwyJPrL.png") !important;
+	width: 128px !important;
+	height: 128px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_kawaii"] {
+	background-image: url("https://i.imgur.com/7nXCFxL.png") !important;
+	width: 119px !important;
+	height: 128px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_upset"] {
+	background-image: url("https://i.imgur.com/mjrivn1.png") !important;
+	width: 200!important;
+	height: 184px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_oops"] {
+	background-image: url("https://i.imgur.com/LL9lESQ.png") !important;
+	width: 200!important;
+	height: 198px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_quality"] {
+	background-image: url("https://i.imgur.com/n10fdEH.png") !important;
+	width: 139!important;
+	height: 200px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_salute"] {
+	background-image: url("https://i.imgur.com/663H7dS.png") !important;
+	width: 171!important;
+	height: 200px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_scared"] {
+	background-image: url("https://i.imgur.com/pmDZJWa.png") !important;
+	width: 140!important;
+	height: 117px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_smile"] {
+	background-image: url("https://i.imgur.com/BGsqhUS.png") !important;
+	width: 200!important;
+	height: 200px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_thumbsup"] {
+	background-image: url("https://i.imgur.com/bSa9VOP.png") !important;
+	width: 200!important;
+	height: 191px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_tired"] {
+	background-image: url("https://i.imgur.com/EVkHwd2.png") !important;
+	width: 177!important;
+	height: 200px !important;
+}
+
+/* Symphogear */
+.md [href$="##kirika_victory"] {
+	background-image: url("https://i.imgur.com/1YgAfP3.png") !important;
+	width: 161!important;
+	height: 200px !important;
+}
+
+/* Symphogear */
+.md [href$="##shirabe_annoyed"] {
+	background-image: url("https://i.imgur.com/OnNyMPM.png") !important;
+	width: 200!important;
+	height: 199px !important;
+}

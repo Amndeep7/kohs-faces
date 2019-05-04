@@ -184,76 +184,111 @@
 /* Symphogear */
 .md [href$="##kirika_upset"] {
 	background-image: url("https://i.imgur.com/mjrivn1.png") !important;
-	width: 200!important;
+	width: 200px !important;
 	height: 184px !important;
 }
 
 /* Symphogear */
 .md [href$="##kirika_oops"] {
 	background-image: url("https://i.imgur.com/LL9lESQ.png") !important;
-	width: 200!important;
+	width: 200px !important;
 	height: 198px !important;
 }
 
 /* Symphogear */
 .md [href$="##kirika_quality"] {
 	background-image: url("https://i.imgur.com/n10fdEH.png") !important;
-	width: 139!important;
+	width: 139px !important;
 	height: 200px !important;
 }
 
 /* Symphogear */
 .md [href$="##kirika_salute"] {
 	background-image: url("https://i.imgur.com/663H7dS.png") !important;
-	width: 171!important;
+	width: 171px !important;
 	height: 200px !important;
 }
 
 /* Symphogear */
 .md [href$="##kirika_scared"] {
 	background-image: url("https://i.imgur.com/pmDZJWa.png") !important;
-	width: 140!important;
+	width: 140px !important;
 	height: 117px !important;
 }
 
 /* Symphogear */
 .md [href$="##kirika_smile"] {
 	background-image: url("https://i.imgur.com/BGsqhUS.png") !important;
-	width: 200!important;
+	width: 200px !important;
 	height: 200px !important;
 }
 
 /* Symphogear */
 .md [href$="##kirika_thumbsup"] {
 	background-image: url("https://i.imgur.com/bSa9VOP.png") !important;
-	width: 200!important;
+	width: 200px !important;
 	height: 191px !important;
 }
 
 /* Symphogear */
 .md [href$="##kirika_tired"] {
 	background-image: url("https://i.imgur.com/EVkHwd2.png") !important;
-	width: 177!important;
+	width: 177px !important;
 	height: 200px !important;
 }
 
 /* Symphogear */
 .md [href$="##kirika_victory"] {
 	background-image: url("https://i.imgur.com/1YgAfP3.png") !important;
-	width: 161!important;
+	width: 161px !important;
 	height: 200px !important;
 }
 
 /* Symphogear */
 .md [href$="##shirabe_annoyed"] {
 	background-image: url("https://i.imgur.com/OnNyMPM.png") !important;
-	width: 200!important;
+	width: 200px !important;
 	height: 199px !important;
+}
+
+/* Fate Prisma Illya */
+.md [href$="##illyasmile"] {
+	background-image: url("https://i.imgur.com/K3pc2ca.png") !important;
+	width: 200px !important;
+	height: 112px !important;
+}
+
+/* Fate Prisma Illya */
+.md [href$="##illyapout"] {
+	background-image: url("https://i.imgur.com/nH6L4tT.png") !important;
+	width: 200px !important;
+	height: 112px !important;
+}
+
+/* Fate Prisma Illya */
+.md [href$="##illyashock"] {
+	background-image: url("https://i.imgur.com/V9TlA7j.png") !important;
+	width: 200px !important;
+	height: 112px !important;
+}
+
+/* Fate Prisma Illya */
+.md [href$="##illyahappy"] {
+	background-image: url("https://i.imgur.com/oPDeyWg.png") !important;
+	width: 200px !important;
+	height: 112px !important;
+}
+
+/* Fate Prisma Illya */
+.md [href$="##illyalove"] {
+	background-image: url("https://i.imgur.com/8aCPokB.png") !important;
+	width: 200px !important;
+	height: 112px !important;
 }
 
 /* Heartcatch! Precure */
 .md [href$="##coffret"] {
 	background-image: url("https://i.imgur.com/hgiqTVp.png") !important;
-	width: 176!important;
+	width: 176px !important;
 	height: 200px !important;
 }
